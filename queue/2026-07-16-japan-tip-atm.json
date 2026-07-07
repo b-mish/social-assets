@@ -1,0 +1,23 @@
+{
+  "id": "2026-07-16-japan-tip-atm",
+  "site": "japan",
+  "post_type": "tip-light",
+  "publish_at": "2026-07-16T12:30:00+03:00",
+  "status": "pending",
+  "attempts": 0,
+  "facebook": {
+    "page_id": "937994292731264",
+    "image_url": "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/japan/2026-07-16-tip-atm/slide1.jpg",
+    "message": "יפן מודרנית, אבל הארנק שלה עדיין אוהב מזומן.\n\nמסעדות קטנות, מקדשים ודוכני אוכל רבים לא מקבלים כרטיס. הפתרון הקבוע של מטיילים: הכספומטים בסניפי 7-Eleven מקבלים כרטיסים זרים ופתוחים כמעט תמיד. גם בסניפי הדואר היפני זה עובד.\n\nהמדריך המלא לכסף ותשלומים ביפן בתגובה הראשונה 👇\n\n#יפן #טיולביפן",
+    "link_comment": "המדריך לכסף, כרטיסים ותשלומים ביפן 👉 https://japan-travel.co.il/he/info/money/"
+  },
+  "instagram": {
+    "ig_user_id": "37462936089964287",
+    "connected_account_id": "instagram_delia-collar",
+    "format": "single",
+    "image_urls": [
+      "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/japan/2026-07-16-tip-atm/slide1.jpg"
+    ],
+    "caption": "טיפ לשבוע 🏧\n\nביפן עדיין צריך מזומן: מקדשים, דוכנים ומסעדות קטנות לא תמיד מקבלים כרטיס. מושכים בכספומטים של 7-Eleven, שמקבלים כרטיסים זרים כמעט 24/7.\n\nשמרו לטיול, ותייגו את מי שבא 🇯🇵\n\nהמדריך המלא באתר. לינק בביו.\n\n#יפן #טיולביפן #חופשהביפן"
+  }
+}

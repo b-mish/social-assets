@@ -1,0 +1,23 @@
+{
+  "id": "2026-07-09-japan-tip-suica",
+  "site": "japan",
+  "post_type": "tip-light",
+  "publish_at": "2026-07-09T12:30:00+03:00",
+  "status": "pending",
+  "attempts": 0,
+  "facebook": {
+    "page_id": "937994292731264",
+    "image_url": "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/japan/2026-07-09-tip-suica/slide1.jpg",
+    "message": "כרטיס אחד פותח את כל יפן.\n\nSuica הוא כרטיס נטען שעובד ברכבות, במטרו, באוטובוסים, וגם בקופות הקומביני ובמכונות האוטומטיות. באייפון מוסיפים אותו לארנק הדיגיטלי ומטעינים מהטלפון, בלי לחפש מכונה.\n\nהמדריך המלא לכסף ותשלומים ביפן בתגובה הראשונה 👇\n\n#יפן #טיולביפן",
+    "link_comment": "המדריך לכסף, כרטיסים ותשלומים ביפן 👉 https://japan-travel.co.il/he/info/money/"
+  },
+  "instagram": {
+    "ig_user_id": "37462936089964287",
+    "connected_account_id": "instagram_delia-collar",
+    "format": "single",
+    "image_urls": [
+      "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/japan/2026-07-09-tip-suica/slide1.jpg"
+    ],
+    "caption": "טיפ לשבוע 🚄\n\nכרטיס Suica אחד עובד בכל יפן: רכבות, מטרו, אוטובוסים, וגם בקופה בקומביני. באייפון אפשר להחזיק אותו בארנק הדיגיטלי ולהטעין מהטלפון.\n\nשמרו לטיול, ותייגו את מי שבא 🇯🇵\n\nהמדריך המלא באתר. לינק בביו.\n\n#יפן #טיולביפן #טוקיו #חופשהביפן"
+  }
+}
