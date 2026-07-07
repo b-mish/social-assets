@@ -118,3 +118,16 @@
 | תאריך | יעד | תוכן | נכסים |
 |---|---|---|---|
 | 2026-06-20 | FB גאורגיה + IG georgia.travel.il | 3 אירועי קיץ בגאורגיה (ג'אז בטומי, ארט-ג'ין, טושטובה) | `georgia/2026-07-events/slide1-5.jpg` |
+| 2026-07-07 | FB גאורגיה + IG georgia.travel.il | אטרקציית השבוע: מבצר אנאנורי (פרסום אוטומטי ראשון דרך התור!) | `assets/georgia/2026-07-07-ananuri/slide1-4.jpg` |
+
+---
+
+## 9. המערכת האוטומטית (מ-2026-07-07)
+
+ההכנה עוברת דרך הסקיל `social-publisher` (מקומי), והפרסום רץ לבד מ-GitHub Actions:
+`queue/*.json` → `publisher/publish.py` (Composio דרך MCP-over-HTTP) → `published/`.
+
+**לקחים מהריצה הראשונה:**
+- **ה-cron של GitHub אינו מדויק.** מוגדר כל 30 דק', בפועל נצפו פערים של 2–3 שעות בין ריצות. להתייחס ל-`publish_at` כ"מוקדם ביותר"; פרסום בפועל יכול להתאחר. לפוסט רגיש-בזמן: `gh workflow run publish.yml -R b-mish/social-assets` מפרסם מיידית כל פוסט שהגיע זמנו.
+- הורדת תמונות Pexels דורשת User-Agent header (אחרת 403).
+- ה-transport ל-Composio מ-CI: MCP JSON-RPC על `connect.composio.dev/mcp` עם מפתח ה-`ck_` (ה-REST הרגיל דוחה אותו). פרטים ב-`publisher/composio_client.py`.
