@@ -8,3 +8,11 @@ Public image assets + automation playbook for the travel sites' social posts
 - `georgia/`, etc. — published image assets, served via raw.githubusercontent.com.
 
 No secrets are stored in this repo.
+
+## Automated publishing pipeline
+
+- `queue/` — scheduled posts (one JSON per post, schema in `publisher/publish.py` docstring)
+- `published/` — archive of published posts (moved here automatically, enriched with post IDs)
+- `assets/<site>/<campaign>/` — slide JPEGs referenced by raw.githubusercontent.com URLs
+- `publisher/publish.py` — runs from GitHub Actions every 30 min, publishes due posts via Composio
+- Content prep happens locally via the `social-publisher` Claude Code skill.
