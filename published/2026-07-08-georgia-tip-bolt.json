@@ -3,7 +3,7 @@
   "site": "georgia",
   "post_type": "tip-light",
   "publish_at": "2026-07-08T12:30:00+03:00",
-  "status": "pending",
+  "status": "published",
   "attempts": 0,
   "facebook": {
     "page_id": "947115751809312",
@@ -19,5 +19,10 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/georgia/2026-07-08-tip-bolt/slide1.jpg"
     ],
     "caption": "טיפ לשבוע 🚕\n\nבגאורגיה לא עוצרים מונית ביד: מזמינים ב-Bolt. מחיר סגור מראש, בלי מיקוח, ונסיעות בטביליסי בשקלים בודדים.\n\nשמרו לטיול, ותייגו את מי שנוסע איתכם 🇬🇪\n\nעוד מדריכים באתר. לינק בביו.\n\n#גאורגיה #טיולבגאורגיה #טביליסי"
+  },
+  "published_at_actual": "2026-07-08T11:21:38.492474+00:00",
+  "result": {
+    "fb_post_id": "947115751809312_122139422025157519",
+    "ig_media_id": "18014762537706972"
   }
 }
