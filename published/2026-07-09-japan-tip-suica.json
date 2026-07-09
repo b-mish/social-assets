@@ -3,7 +3,7 @@
   "site": "japan",
   "post_type": "tip-light",
   "publish_at": "2026-07-09T12:30:00+03:00",
-  "status": "pending",
+  "status": "published",
   "attempts": 0,
   "facebook": {
     "page_id": "937994292731264",
@@ -19,5 +19,10 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/japan/2026-07-09-tip-suica/slide1.jpg"
     ],
     "caption": "טיפ לשבוע 🚄\n\nכרטיס Suica אחד עובד בכל יפן: רכבות, מטרו, אוטובוסים, וגם בקופה בקומביני. באייפון אפשר להחזיק אותו בארנק הדיגיטלי ולהטעין מהטלפון.\n\nשמרו לטיול, ותייגו את מי שבא 🇯🇵\n\nהמדריך המלא באתר. לינק בביו.\n\n#יפן #טיולביפן #טוקיו #חופשהביפן"
+  },
+  "published_at_actual": "2026-07-09T09:31:20.907545+00:00",
+  "result": {
+    "fb_post_id": "937994292731264_122128139817206596",
+    "ig_media_id": "18066457328466222"
   }
 }
