@@ -3,7 +3,7 @@
   "site": "armenia",
   "post_type": "tip-light",
   "publish_at": "2026-07-10T12:30:00+03:00",
-  "status": "pending",
+  "status": "published",
   "attempts": 0,
   "facebook": {
     "page_id": "943092128888857",
@@ -19,5 +19,10 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/armenia/2026-07-10-tip-pulpulak/slide1.jpg"
     ],
     "caption": "טיפ לשבוע 💧\n\nבירוואן לא קונים מים: בכל פינה מחכה פולפולאק, ברזיית אבן עם מים קרים מההרים, בחינם. ממלאים בקבוק וממשיכים.\n\nשמרו לטיול, ותייגו את מי שבא 🇦🇲\n\nהמדריך המלא באתר. לינק בביו.\n\n#ארמניה #טיולבארמניה #ירוואן"
+  },
+  "published_at_actual": "2026-07-10T11:23:47.071524+00:00",
+  "result": {
+    "fb_post_id": "943092128888857_122132283573217501",
+    "ig_media_id": "18065846246526646"
   }
 }
