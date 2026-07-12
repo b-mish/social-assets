@@ -3,7 +3,7 @@
   "site": "georgia",
   "post_type": "attraction-of-week",
   "publish_at": "2026-07-12T19:00:00+03:00",
-  "status": "pending",
+  "status": "published",
   "attempts": 0,
   "facebook": {
     "page_id": "947115751809312",
@@ -22,5 +22,10 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/georgia/2026-07-12-batumi/slide4.jpg"
     ],
     "caption": "קיץ על הים השחור 🌊\n\nבטומי: טיילת ארוכה לאורך החוף, פסל עלי ונינו שנע ומתאחד, גן בוטני על צוק מעל הים, ומים חמים עד הערב.\n\nהכי כיף: לשכור אופניים ולעשות את כל הטיילת לקראת שקיעה.\n\nשמרו לתכנון החופשה, ותייגו את מי שבא 🇬🇪\n\nכל האטרקציות של בטומי באתר. לינק בביו.\n\n#גאורגיה #טיולבגאורגיה #באטומי #חופשהבגאורגיה"
+  },
+  "published_at_actual": "2026-07-12T16:55:53.379098+00:00",
+  "result": {
+    "fb_post_id": "947115751809312_122139930087157519",
+    "ig_media_id": "18323889292273025"
   }
 }
