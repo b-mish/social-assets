@@ -3,7 +3,7 @@
   "site": "georgia",
   "post_type": "tip-light",
   "publish_at": "2026-07-15T12:30:00+03:00",
-  "status": "pending",
+  "status": "published",
   "attempts": 0,
   "facebook": {
     "page_id": "947115751809312",
@@ -19,5 +19,10 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/georgia/2026-07-15-tip-cash/slide1.jpg"
     ],
     "caption": "טיפ לשבוע 💵\n\nכרטיס אשראי עובד בערים של גאורגיה, אבל לשווקים, לכפרים ולמרשרוטקות צריך מזומן בלארי. מחליפים בצ'יינג' בעיר, לא בשדה התעופה.\n\nשמרו לטיול, ותייגו את מי שנוסע 🇬🇪\n\nעוד מדריכים באתר. לינק בביו.\n\n#גאורגיה #טיולבגאורגיה #חופשהבגאורגיה"
+  },
+  "published_at_actual": "2026-07-15T11:11:05.073983+00:00",
+  "result": {
+    "fb_post_id": "947115751809312_122140277655157519",
+    "ig_media_id": "18153885157497083"
   }
 }
