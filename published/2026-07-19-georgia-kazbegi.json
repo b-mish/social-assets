@@ -3,7 +3,7 @@
   "site": "georgia",
   "post_type": "attraction-of-week",
   "publish_at": "2026-07-19T12:30:00+03:00",
-  "status": "pending",
+  "status": "published",
   "attempts": 0,
   "facebook": {
     "page_id": "947115751809312",
@@ -22,5 +22,10 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/georgia/2026-07-19-kazbegi/slide4.jpg"
     ],
     "caption": "קזבגי וכנסיית גרגטי 🏔️\n\nכנסייה מהמאה ה-14 על רכס בגובה 2,170 מ׳, מול פסגת הר קזבק המושלגת. שלוש שעות נסיעה מטביליסי בדרך הצבאית הגאורגית, ואז הליכה קצרה או ג'יפ אל הכנסייה.\n\nשמרו לטיול הבא, ותייגו את מי שבא איתכם 🇬🇪\n\nכל האטרקציות באזור באתר. לינק בביו.\n\n#גאורגיה #טיולבגאורגיה #קזבגי #חופשהבגאורגיה"
+  },
+  "published_at_actual": "2026-07-19T10:51:59.776830+00:00",
+  "result": {
+    "fb_post_id": "947115751809312_122140763133157519",
+    "ig_media_id": "18136079899514244"
   }
 }
