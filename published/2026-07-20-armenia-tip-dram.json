@@ -3,7 +3,7 @@
   "site": "armenia",
   "post_type": "tip-light",
   "publish_at": "2026-07-20T12:30:00+03:00",
-  "status": "pending",
+  "status": "published",
   "attempts": 0,
   "facebook": {
     "page_id": "943092128888857",
@@ -19,5 +19,10 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/armenia/2026-07-20-tip-dram/slide1.jpg"
     ],
     "caption": "טיפ לשבוע 💵\n\nהמטבע בארמניה הוא דראם. בירוואן כרטיס עובד, אבל לשווקים, לכפרים ולמרשרוטקות צריך מזומן. מחליפים במשרדי המרה בעיר (לא בשדה), ובכספומט בוחרים לחייב בדראם ולא בשקלים.\n\nשמרו לטיול, ותייגו את השותפים 🇦🇲\n\nהמדריך המלא באתר. לינק בביו.\n\n#ארמניה #טיולבארמניה #ירוואן"
+  },
+  "published_at_actual": "2026-07-20T11:20:44.748712+00:00",
+  "result": {
+    "fb_post_id": "943092128888857_122133705537217501",
+    "ig_media_id": "17947595364225465"
   }
 }
