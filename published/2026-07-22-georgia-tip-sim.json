@@ -3,7 +3,7 @@
   "site": "georgia",
   "post_type": "tip-light",
   "publish_at": "2026-07-22T12:30:00+03:00",
-  "status": "pending",
+  "status": "published",
   "attempts": 0,
   "facebook": {
     "page_id": "947115751809312",
@@ -19,5 +19,10 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/georgia/2026-07-22-tip-sim/slide1.jpg"
     ],
     "caption": "טיפ לשבוע 📶\n\nאינטרנט בגאורגיה זול ופשוט. שלוש רשתות: מג'טי (הכי טובה בהרים), סילקנט וסלפי. קונים בשדה או בעיר עם דרכון, חבילה חודשית בערך 15 עד 25 לארי. יש גם eSIM אונליין מראש.\n\nשמרו לטיול, ותייגו את מי שנוסע 🇬🇪\n\nכל הטיפים לתכנון באתר. לינק בביו.\n\n#גאורגיה #טיולבגאורגיה #חופשהבגאורגיה"
+  },
+  "published_at_actual": "2026-07-22T09:56:42.292879+00:00",
+  "result": {
+    "fb_post_id": "947115751809312_122141141865157519",
+    "ig_media_id": "18123595876689617"
   }
 }
