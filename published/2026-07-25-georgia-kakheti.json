@@ -3,7 +3,7 @@
   "site": "georgia",
   "post_type": "attraction-of-week",
   "publish_at": "2026-07-25T12:30:00+03:00",
-  "status": "pending",
+  "status": "published",
   "attempts": 0,
   "facebook": {
     "page_id": "947115751809312",
@@ -22,5 +22,10 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/georgia/2026-07-25-kakheti/slide4.jpg"
     ],
     "caption": "קאחטי, ארץ היין של גאורגיה 🍷\n\nרוב היין הגאורגי בא מכאן, מעמק אלזני שבמזרח. הלב הוא סיגנאגי, עיירה מוקפת חומה על גבעה. היין מתסיס בכדי חרס קבורים באדמה, מסורת בת 8,000 שנה שרשומה באונסקו.\n\nשמרו לטיול, ותייגו את מי שאוהב יין 🇬🇪\n\nכל האטרקציות באזור באתר. לינק בביו.\n\n#גאורגיה #טיולבגאורגיה #חופשהבגאורגיה"
+  },
+  "published_at_actual": "2026-07-25T11:41:58.944548+00:00",
+  "result": {
+    "fb_post_id": "947115751809312_122141572839157519",
+    "ig_media_id": "18091616345153341"
   }
 }
