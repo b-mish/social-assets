@@ -3,7 +3,7 @@
   "site": "georgia",
   "post_type": "tip-light",
   "publish_at": "2026-07-28T12:30:00+03:00",
-  "status": "pending",
+  "status": "published",
   "attempts": 0,
   "facebook": {
     "page_id": "947115751809312",
@@ -19,5 +19,10 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/georgia/2026-07-28-tip-marshrutka/slide1.jpg"
     ],
     "caption": "טיפ לשבוע 🚐\n\nמרשרוטקה היא מיניבוס זול עם מסלול קבוע. בטביליסי רוב הקווים (כולל קזבגי) יוצאים מתחנת דידובה, והקווים למזרח מאיסאני וסמגורי. לקזבגי בערך 20 לארי, שלוש שעות וחצי. משלמים לנהג, בלי הזמנה.\n\nשמרו לטיול, ותייגו את מי שנוסע 🇬🇪\n\nכל הטיפים באתר. לינק בביו.\n\n#גאורגיה #טיולבגאורגיה #טביליסי"
+  },
+  "published_at_actual": "2026-07-28T10:56:41.309412+00:00",
+  "result": {
+    "fb_post_id": "947115751809312_122141952735157519",
+    "ig_media_id": "17949453480215819"
   }
 }
