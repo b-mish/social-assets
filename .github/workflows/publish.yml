@@ -27,7 +27,12 @@ jobs:
         run: |
           python publisher/publish.py ${{ inputs.dry_run == true && '--dry-run' || '' }}
       - name: Commit state changes
-        if: ${{ inputs.dry_run != true }}
+        # Must run even when the publish step exits non-zero: a run can both
+        # publish one post and fail another. Without this, the successful post's
+        # move to published/ is lost and it gets published again next run, and
+        # the failed post's attempts counter never persists (so MAX_ATTEMPTS
+        # never trips). The job still reports failure via the publish step.
+        if: ${{ !cancelled() && inputs.dry_run != true }}
         run: |
           git config user.name "social-publisher-bot"
           git config user.email "actions@users.noreply.github.com"
