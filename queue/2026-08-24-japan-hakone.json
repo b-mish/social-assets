@@ -4,7 +4,7 @@
   "post_type": "attraction-of-week",
   "publish_at": "2026-08-24T12:30:00+03:00",
   "status": "pending",
-  "attempts": 0,
+  "attempts": 1,
   "facebook": {
     "page_id": "937994292731264",
     "image_url": "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/japan/2026-08-24-hakone/slide1.jpg",
@@ -22,5 +22,6 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/japan/2026-08-24-hakone/slide4.jpg"
     ],
     "caption": "את פוג’י לא חייבים לטפס. מספיק לראות אותו מאגם אאשי 🗻\n\nהאקונה נמצאת שעה וחצי מטוקיו, ברכבת אודקיו משינג’וקו. משם יוצאת לולאת האקונה: רכבת הרים, רכבל מעל עמק אוואקודאני הגעשי, ושייט בספינת שודדים על האגם.\n\nבאוואקודאני טועמים ביצה שחורה שהתבשלה במעיינות הגופרית. באגם עומד שער הטורי האדום בתוך המים, ומאחוריו פוג’י בגובה 3,776 מטר.\n\nקנו Hakone Free Pass, הוא כולל את הכל.\n\nשמרו למסלול, ותייגו את מי שטס איתכם 🇯🇵\n\nלינק בביו.\n\n#יפן #טיולביפן #חופשהביפן"
-  }
+  },
+  "last_error": "FACEBOOK_CREATE_COMMENT: Facebook API error (400): (#3) Publishing comments through the API is only available for page access tokens"
 }
