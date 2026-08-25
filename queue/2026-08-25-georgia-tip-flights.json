@@ -4,7 +4,7 @@
   "post_type": "tip-light",
   "publish_at": "2026-08-25T12:30:00+03:00",
   "status": "pending",
-  "attempts": 0,
+  "attempts": 1,
   "facebook": {
     "page_id": "947115751809312",
     "image_url": "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/georgia/2026-08-25-tip-flights/slide1.jpg",
@@ -19,5 +19,6 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/georgia/2026-08-25-tip-flights/slide1.jpg"
     ],
     "caption": "טיפ לשבוע ✈️\n\nשעתיים וחצי עד שלוש שעות טיסה מתל אביב לטביליסי. יש גם קו ישיר לבאטומי, על חוף הים השחור.\n\nעל הקו: אל על, ארקיע, ישראייר וג’ורג’יאן איירווייז. בקיץ ובחגים התדירות גבוהה, בחורף פחות טיסות ובימים מרוכזים.\n\nלקוטאיסי אין טיסה ישירה מישראל, רק חיבורי לואו קוסט מאירופה.\n\nשמרו לטיול, ותייגו את מי שנוסע 🇬🇪\n\nלינק בביו.\n\n#גאורגיה #טיולבגאורגיה #חופשהבגאורגיה"
-  }
+  },
+  "last_error": "MCP initialize failed: {'jsonrpc': '2.0', 'id': 1, 'error': {'code': -32000, 'message': 'Upstream MCP server error'}}"
 }
