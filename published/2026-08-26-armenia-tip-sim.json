@@ -3,7 +3,7 @@
   "site": "armenia",
   "post_type": "tip-light",
   "publish_at": "2026-08-26T12:30:00+03:00",
-  "status": "pending",
+  "status": "published",
   "attempts": 0,
   "facebook": {
     "page_id": "943092128888857",
@@ -19,5 +19,10 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/armenia/2026-08-26-tip-sim/slide1.jpg"
     ],
     "caption": "טיפ לשבוע 📶\n\nעשר דקות מהנחיתה ואתם מחוברים. עמדת Viva-MTS נמצאת ישר בטרמינל בשדה התעופה זווארטנוץ, וזו הרשת עם הקליטה הכי טובה מחוץ לירוואן.\n\nמתכננים סבאן, נורוואנק או תתב? קחו אותה. Ucom טובה בתוך העיר, Beeline הזולה אבל חלשה בפריפריה.\n\nתביאו דרכון, ההרשמה לוקחת כמה דקות.\n\nשמרו לטיול, ותייגו את מי שבא איתכם 🇦🇲\n\nלינק בביו.\n\n#ארמניה #טיולבארמניה #ירוואן"
+  },
+  "published_at_actual": "2026-08-26T10:04:46.876508+00:00",
+  "result": {
+    "fb_post_id": "943092128888857_122137744737217501",
+    "ig_media_id": "18100037012103639"
   }
 }
