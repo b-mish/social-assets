@@ -3,7 +3,7 @@
   "site": "georgia",
   "post_type": "tip-light",
   "publish_at": "2026-09-30T12:30:00+03:00",
-  "status": "pending",
+  "status": "published",
   "attempts": 0,
   "facebook": {
     "page_id": "947115751809312",
@@ -19,5 +19,10 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/georgia/2026-09-30-tip-unusual-hotels/slide1.jpg"
     ],
     "caption": "טיפ לשבוע 🏨\n\nבגאורגיה כמה מהמלונות הכי מעניינים שוכנים בבניינים שנבנו למשהו אחר.\n\nטביליסי: Stamba בבית דפוס סובייטי לשעבר, ו-Rooms באותו מתחם.\nקזבגי: Rooms Kazbegi מול הר קזבק וכנסיית גרגטי.\nקחטי: אחוזת היין ההיסטורית צינאנדלי.\n\nלא צריך את כל הטיול. לילה אחד כזה משנה את השבוע.\n\nשמרו למי שמתכנן 🇬🇪\n\nלינק בביו.\n\n#גאורגיה #טיולבגאורגיה #טביליסי"
+  },
+  "published_at_actual": "2026-09-30T15:33:10.595247+00:00",
+  "result": {
+    "fb_post_id": "947115751809312_122150238927157519",
+    "ig_media_id": "18443444107131102"
   }
 }
