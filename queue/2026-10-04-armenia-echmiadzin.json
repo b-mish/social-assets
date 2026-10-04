@@ -3,8 +3,8 @@
   "site": "armenia",
   "post_type": "attraction-of-week",
   "publish_at": "2026-10-04T12:30:00+03:00",
-  "status": "pending",
-  "attempts": 2,
+  "status": "failed",
+  "attempts": 3,
   "facebook": {
     "page_id": "943092128888857",
     "image_url": "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/armenia/2026-10-04-echmiadzin/slide1.jpg",
