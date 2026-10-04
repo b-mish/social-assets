@@ -4,7 +4,7 @@
   "post_type": "attraction-of-week",
   "publish_at": "2026-10-04T12:30:00+03:00",
   "status": "pending",
-  "attempts": 0,
+  "attempts": 1,
   "facebook": {
     "page_id": "943092128888857",
     "image_url": "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/armenia/2026-10-04-echmiadzin/slide1.jpg",
@@ -22,5 +22,6 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/armenia/2026-10-04-echmiadzin/slide4.jpg"
     ],
     "caption": "הקתדרלה העתיקה בעולם, חצי שעה מירוואן ⛪\n\nאצ'מיאדזין נבנתה בשנים 301 עד 303, מיד אחרי שארמניה הייתה למדינה הראשונה שאימצה נצרות. היא פעילה עד היום, מושב הקתוליקוס, ואתר מורשת עולמית של אונסק\"ו.\n\nבסביבה: הכנסיות הריפסימה וגאיאנה, ובדרך חורבות זוורטנוץ.\n\nחצי יום מספיק. כתפיים מכוסות.\n\nשמרו לטיול 🇦🇲\n\nלינק בביו.\n\n#ארמניה #טיולבארמניה #ירוואן"
-  }
+  },
+  "last_error": "***: Failed to create child container for media URL 'https://raw.githubusercontent.com/b-mish/social-assets/main/assets/armenia/2026-10-04-echmiadzin/slide1.jpg' (status 401). Error code: 190, subcode: 0. Message: Error validating access token: Session has expired on Friday, 02-Oct-26 13:12:40 PDT. The current time is Sunday, 04-Oct-26 05:41:50 PDT."
 }
