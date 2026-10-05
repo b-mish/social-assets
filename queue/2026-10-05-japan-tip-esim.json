@@ -4,7 +4,7 @@
   "post_type": "tip-light",
   "publish_at": "2026-10-05T12:30:00+03:00",
   "status": "pending",
-  "attempts": 0,
+  "attempts": 1,
   "facebook": {
     "page_id": "937994292731264",
     "image_url": "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/japan/2026-10-05-tip-esim/slide1.jpg",
@@ -19,5 +19,6 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/japan/2026-10-05-tip-esim/slide1.jpg"
     ],
     "caption": "טיפ לשבוע 📱\n\nביפן תצטרכו אינטרנט יותר ממה שנדמה: מפות, תרגום תפריטים, שעות רכבת.\n\neSIM: הכי פשוט. קונים אונליין, מתקינים בבית, מפעילים בנחיתה. רוב הטלפונים מ-2019 ואילך תומכים.\n\nסים פיזי: לטלפונים ישנים יותר.\n\nראוטר נייד: משתלם למשפחה או קבוצה.\n\nרוב החבילות הן גלישה בלבד, בלי מספר יפני. לוואטסאפ זה מספיק.\n\nשמרו לפני הטיסה 🇯🇵\n\nלינק בביו.\n\n#יפן #טיולביפן #טוקיו"
-  }
+  },
+  "last_error": "INSTAGRAM_CREATE_MEDIA_CONTAINER: Failed to create container (status 401). Response: {\"error\":{\"message\":\"Error validating access token: Session has expired on Friday, 02-Oct-26 13:10:30 PDT. The current time is Monday, 05-Oct-26 11:42:20 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AE-x1ZXTrJZNHmt75WESRH6\"}}"
 }
