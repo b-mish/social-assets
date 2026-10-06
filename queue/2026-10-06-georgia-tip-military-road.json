@@ -4,7 +4,7 @@
   "post_type": "tip-light",
   "publish_at": "2026-10-06T12:30:00+03:00",
   "status": "pending",
-  "attempts": 0,
+  "attempts": 1,
   "facebook": {
     "page_id": "947115751809312",
     "image_url": "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/georgia/2026-10-06-tip-military-road/slide1.jpg",
@@ -19,5 +19,6 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/georgia/2026-10-06-tip-military-road/slide1.jpg"
     ],
     "caption": "טיפ לשבוע 🏔️\n\nאת הדרך הצבאית עושים לרוב ביום אחד. בשלושה ימים היא נראית אחרת:\n\nיום 1: ז'ינוואלי, אנאנורי, גודאורי, ולינה בסטפנצמינדה.\nיום 2: גרגטי בבוקר, לפני הקבוצות, ומסלול טבע אחר הצהריים.\nיום 3: בוקר רגוע וחזרה לטביליסי.\n\nקזבק נראה הכי טוב בשעות הראשונות של הבוקר. בשביל זה ישנים בהרים.\n\nבחורף מעבר ג'וורי נסגר לפעמים בשלג. בדקו לפני.\n\nשמרו לטיול 🇬🇪\n\nלינק בביו.\n\n#גאורגיה #טיולבגאורגיה #חופשהבגאורגיה"
-  }
+  },
+  "last_error": "INSTAGRAM_CREATE_MEDIA_CONTAINER: No active connection found for toolkit(s) 'instagram' in this session. To fix this, call COMPOSIO_MANAGE_CONNECTIONS with toolkits=['instagram'] to establish a connection, then retry this tool call."
 }
