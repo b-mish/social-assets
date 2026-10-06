@@ -3,8 +3,8 @@
   "site": "japan",
   "post_type": "tip-light",
   "publish_at": "2026-10-05T12:30:00+03:00",
-  "status": "pending",
-  "attempts": 2,
+  "status": "failed",
+  "attempts": 3,
   "facebook": {
     "page_id": "937994292731264",
     "image_url": "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/japan/2026-10-05-tip-esim/slide1.jpg",
