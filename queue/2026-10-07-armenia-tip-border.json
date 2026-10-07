@@ -4,7 +4,7 @@
   "post_type": "tip-light",
   "publish_at": "2026-10-07T12:30:00+03:00",
   "status": "pending",
-  "attempts": 0,
+  "attempts": 1,
   "facebook": {
     "page_id": "943092128888857",
     "image_url": "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/armenia/2026-10-07-tip-border/slide1.jpg",
@@ -19,5 +19,6 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/armenia/2026-10-07-tip-border/slide1.jpg"
     ],
     "caption": "טיפ לשבוע 🚐\n\nטביליסי וירוואן במרחק 5 עד 6 שעות נסיעה. אפשר לשלב את שתיהן בטיול אחד.\n\nהמעבר הנפוץ: סדחלו בצד הגאורגי, בגרטשן בצד הארמני.\n\nמרשרוטקה ישירה: הכי זולה. בגבול יורדים, עוברים ביקורת ועולים שוב.\nנהג פרטי: יקר יותר, אבל עוצרים בהאגפט ובסנאהין בדרך.\n\nבדקו דרישות כניסה לפי הדרכון שלכם, והחזיקו מזומן בשני המטבעות.\n\nשמרו למי שמתכנן 🇦🇲\n\nלינק בביו.\n\n#ארמניה #טיולבארמניה #חופשהבארמניה"
-  }
+  },
+  "last_error": "INSTAGRAM_CREATE_MEDIA_CONTAINER: No active connection found for toolkit(s) 'instagram' in this session. To fix this, call COMPOSIO_MANAGE_CONNECTIONS with toolkits=['instagram'] to establish a connection, then retry this tool call."
 }
