@@ -74,16 +74,20 @@ def execute_tool(slug, arguments, connected_account_id=None):
 
 
 def publish_post(post):
-    ids = {"fb_post_id": None, "ig_media_id": None}
+    # Progress is stored on the post dict, which process_queue persists on failure,
+    # so a retry never re-posts a platform that already succeeded.
+    progress = post.setdefault("progress", {})
+    ids = {"fb_post_id": progress.get("fb_post_id"), "ig_media_id": None}
     fb = post.get("facebook")
-    if fb:
+    if fb and not progress.get("fb_post_id"):
         data = execute_tool("FACEBOOK_CREATE_PHOTO_POST",
                             {"page_id": fb["page_id"], "url": fb["image_url"],
                              "message": fb["message"]})
-        ids["fb_post_id"] = data.get("post_id") or data.get("id")
-        if fb.get("link_comment"):
-            execute_tool("FACEBOOK_CREATE_COMMENT",
-                         {"object_id": ids["fb_post_id"], "message": fb["link_comment"]})
+        ids["fb_post_id"] = progress["fb_post_id"] = data.get("post_id") or data.get("id")
+    if fb and fb.get("link_comment") and not progress.get("fb_comment_done"):
+        execute_tool("FACEBOOK_CREATE_COMMENT",
+                     {"object_id": ids["fb_post_id"], "message": fb["link_comment"]})
+        progress["fb_comment_done"] = True
     ig = post.get("instagram")
     if ig:
         acct = ig.get("connected_account_id")

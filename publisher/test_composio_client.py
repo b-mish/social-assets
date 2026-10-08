@@ -35,6 +35,37 @@ def test_publish_instagram_carousel(monkeypatch):
     assert calls[1][1]["creation_id"] == "cont9"
 
 
+def test_retry_after_instagram_failure_does_not_repost_facebook(monkeypatch, tmp_path):
+    from datetime import datetime, timezone
+    import json
+    import publish
+    calls = []
+    ig_up = {"ok": False}
+    def fake(slug, arguments, connected_account_id=None):
+        calls.append(slug)
+        if slug.startswith("INSTAGRAM") and not ig_up["ok"]:
+            raise RuntimeError('No account found matching "instagram_x"')
+        return {"post_id": "947_111"} if slug == "FACEBOOK_CREATE_PHOTO_POST" else {"id": "z"}
+    monkeypatch.setattr(cc, "execute_tool", fake)
+    q, pub = tmp_path / "queue", tmp_path / "published"
+    q.mkdir(); pub.mkdir()
+    post = {"id": "p1", "status": "pending", "attempts": 0,
+            "publish_at": "2026-10-01T12:30:00+03:00",
+            "facebook": {"page_id": "947", "image_url": "u", "message": "m", "link_comment": "l"},
+            "instagram": {"ig_user_id": "269", "connected_account_id": "ca_1",
+                          "format": "single", "image_urls": ["u1"], "caption": "c"}}
+    (q / "p1.json").write_text(json.dumps(post), encoding="utf-8")
+    now = datetime(2026, 10, 2, tzinfo=timezone.utc)
+    publish.process_queue(q, pub, now, cc.publish_post, False)
+    publish.process_queue(q, pub, now, cc.publish_post, False)
+    ig_up["ok"] = True
+    publish.process_queue(q, pub, now, cc.publish_post, False)
+    assert calls.count("FACEBOOK_CREATE_PHOTO_POST") == 1
+    assert calls.count("FACEBOOK_CREATE_COMMENT") == 1
+    done = json.loads((pub / "p1.json").read_text(encoding="utf-8"))
+    assert done["result"] == {"fb_post_id": "947_111", "ig_media_id": "z"}
+
+
 def test_publish_instagram_single(monkeypatch):
     calls = []
     def fake(slug, arguments, connected_account_id=None):
