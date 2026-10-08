@@ -3,8 +3,8 @@
   "site": "georgia",
   "post_type": "tip-light",
   "publish_at": "2026-10-06T12:30:00+03:00",
-  "status": "failed",
-  "attempts": 3,
+  "status": "pending",
+  "attempts": 0,
   "facebook": {
     "page_id": "947115751809312",
     "image_url": "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/georgia/2026-10-06-tip-military-road/slide1.jpg",
@@ -13,12 +13,15 @@
   },
   "instagram": {
     "ig_user_id": "26974287245601419",
-    "connected_account_id": "instagram_dail-jumble",
+    "connected_account_id": "instagram_delver-kettle",
     "format": "single",
     "image_urls": [
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/georgia/2026-10-06-tip-military-road/slide1.jpg"
     ],
     "caption": "טיפ לשבוע 🏔️\n\nאת הדרך הצבאית עושים לרוב ביום אחד. בשלושה ימים היא נראית אחרת:\n\nיום 1: ז'ינוואלי, אנאנורי, גודאורי, ולינה בסטפנצמינדה.\nיום 2: גרגטי בבוקר, לפני הקבוצות, ומסלול טבע אחר הצהריים.\nיום 3: בוקר רגוע וחזרה לטביליסי.\n\nקזבק נראה הכי טוב בשעות הראשונות של הבוקר. בשביל זה ישנים בהרים.\n\nבחורף מעבר ג'וורי נסגר לפעמים בשלג. בדקו לפני.\n\nשמרו לטיול 🇬🇪\n\nלינק בביו.\n\n#גאורגיה #טיולבגאורגיה #חופשהבגאורגיה"
   },
-  "last_error": "HTTP Error 502: Bad Gateway"
+  "progress": {
+    "fb_post_id": "947115751809312_122151087603157519",
+    "fb_comment_done": true
+  }
 }

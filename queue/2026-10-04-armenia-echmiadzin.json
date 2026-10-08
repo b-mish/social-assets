@@ -3,8 +3,8 @@
   "site": "armenia",
   "post_type": "attraction-of-week",
   "publish_at": "2026-10-04T12:30:00+03:00",
-  "status": "failed",
-  "attempts": 3,
+  "status": "pending",
+  "attempts": 0,
   "facebook": {
     "page_id": "943092128888857",
     "image_url": "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/armenia/2026-10-04-echmiadzin/slide1.jpg",
@@ -13,7 +13,7 @@
   },
   "instagram": {
     "ig_user_id": "27645327255083350",
-    "connected_account_id": "instagram_spoot-warri",
+    "connected_account_id": "instagram_kiva-ramona",
     "format": "carousel",
     "image_urls": [
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/armenia/2026-10-04-echmiadzin/slide1.jpg",
@@ -23,5 +23,8 @@
     ],
     "caption": "הקתדרלה העתיקה בעולם, חצי שעה מירוואן ⛪\n\nאצ'מיאדזין נבנתה בשנים 301 עד 303, מיד אחרי שארמניה הייתה למדינה הראשונה שאימצה נצרות. היא פעילה עד היום, מושב הקתוליקוס, ואתר מורשת עולמית של אונסק\"ו.\n\nבסביבה: הכנסיות הריפסימה וגאיאנה, ובדרך חורבות זוורטנוץ.\n\nחצי יום מספיק. כתפיים מכוסות.\n\nשמרו לטיול 🇦🇲\n\nלינק בביו.\n\n#ארמניה #טיולבארמניה #ירוואן"
   },
-  "last_error": "***: No account found matching \"instagram_spoot-warri\""
+  "progress": {
+    "fb_post_id": "943092128888857_122143478751217501",
+    "fb_comment_done": true
+  }
 }

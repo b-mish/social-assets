@@ -3,8 +3,8 @@
   "site": "japan",
   "post_type": "tip-light",
   "publish_at": "2026-10-05T12:30:00+03:00",
-  "status": "failed",
-  "attempts": 3,
+  "status": "pending",
+  "attempts": 0,
   "facebook": {
     "page_id": "937994292731264",
     "image_url": "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/japan/2026-10-05-tip-esim/slide1.jpg",
@@ -13,12 +13,15 @@
   },
   "instagram": {
     "ig_user_id": "37462936089964287",
-    "connected_account_id": "instagram_delia-collar",
+    "connected_account_id": "instagram_bur-sunt",
     "format": "single",
     "image_urls": [
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/japan/2026-10-05-tip-esim/slide1.jpg"
     ],
     "caption": "טיפ לשבוע 📱\n\nביפן תצטרכו אינטרנט יותר ממה שנדמה: מפות, תרגום תפריטים, שעות רכבת.\n\neSIM: הכי פשוט. קונים אונליין, מתקינים בבית, מפעילים בנחיתה. רוב הטלפונים מ-2019 ואילך תומכים.\n\nסים פיזי: לטלפונים ישנים יותר.\n\nראוטר נייד: משתלם למשפחה או קבוצה.\n\nרוב החבילות הן גלישה בלבד, בלי מספר יפני. לוואטסאפ זה מספיק.\n\nשמרו לפני הטיסה 🇯🇵\n\nלינק בביו.\n\n#יפן #טיולביפן #טוקיו"
   },
-  "last_error": "INSTAGRAM_CREATE_MEDIA_CONTAINER: No active connection found for toolkit(s) 'instagram' in this session. To fix this, call COMPOSIO_MANAGE_CONNECTIONS with toolkits=['instagram'] to establish a connection, then retry this tool call."
+  "progress": {
+    "fb_post_id": "937994292731264_122137697253206596",
+    "fb_comment_done": true
+  }
 }

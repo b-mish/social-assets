@@ -3,8 +3,8 @@
   "site": "georgia",
   "post_type": "attraction-of-week",
   "publish_at": "2026-10-03T12:30:00+03:00",
-  "status": "failed",
-  "attempts": 3,
+  "status": "pending",
+  "attempts": 0,
   "facebook": {
     "page_id": "947115751809312",
     "image_url": "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/georgia/2026-10-03-martvili/slide1.jpg",
@@ -13,7 +13,7 @@
   },
   "instagram": {
     "ig_user_id": "26974287245601419",
-    "connected_account_id": "instagram_dail-jumble",
+    "connected_account_id": "instagram_delver-kettle",
     "format": "carousel",
     "image_urls": [
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/georgia/2026-10-03-martvili/slide1.jpg",
@@ -23,5 +23,8 @@
     ],
     "caption": "מים בצבע טורקיז וסירה בין קירות סלע 🛶\n\nקניון מרטווילי, כשעה נסיעה מכותאיסי. לפי המסורת, משפחת דדיאני שלטה כאן, רחצה בקניון ואסרה על אחרים להיכנס.\n\nשביל של כ-700 מטר עם גשרונים ומפלים, ושיט קצר במעלה הנהר. שעה עד שעה וחצי לשניהם.\n\nבואו בבוקר, לפני הקבוצות. אחרי גשם כבד המים עכורים.\n\nשלבו עם מערת פרומתאוס באותו יום.\n\nשמרו לטיול במערב 🇬🇪\n\nלינק בביו.\n\n#גאורגיה #טיולבגאורגיה #חופשהבגאורגיה"
   },
-  "last_error": "***: No account found matching \"instagram_dail-jumble\""
+  "progress": {
+    "fb_post_id": "947115751809312_122150629491157519",
+    "fb_comment_done": true
+  }
 }
