@@ -3,7 +3,7 @@
   "site": "georgia",
   "post_type": "attraction-of-week",
   "publish_at": "2026-10-03T12:30:00+03:00",
-  "status": "pending",
+  "status": "published",
   "attempts": 0,
   "facebook": {
     "page_id": "947115751809312",
@@ -26,5 +26,10 @@
   "progress": {
     "fb_post_id": "947115751809312_122150629491157519",
     "fb_comment_done": true
+  },
+  "published_at_actual": "2026-10-08T05:44:40.527498+00:00",
+  "result": {
+    "fb_post_id": "947115751809312_122150629491157519",
+    "ig_media_id": "18163351234430467"
   }
 }
