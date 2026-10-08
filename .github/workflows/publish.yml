@@ -13,6 +13,7 @@ concurrency:
   cancel-in-progress: false
 permissions:
   contents: write
+  issues: write
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -39,3 +40,21 @@ jobs:
           git add queue published
           git diff --cached --quiet || git commit -m "chore: publish run $(date -u +%FT%TZ)"
           git push
+      - name: Alert on failure
+        # Failures went unnoticed for 5 days in Oct 2026. Open one issue (emails the
+        # owner); stay quiet while it is open so a 30-min cron doesn't spam.
+        if: ${{ failure() && inputs.dry_run != true }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          open=$(gh issue list --label publish-failure --state open --json number --jq length)
+          [ "$open" -gt 0 ] && exit 0
+          gh label create publish-failure --color B60205 --force
+          errors=$(python -c "import json,glob;print('\n'.join(f\"- {d['id']}: attempts={d['attempts']} {d.get('last_error','')}\" for d in (json.load(open(f,encoding='utf-8')) for f in sorted(glob.glob('queue/*.json'))) if d['attempts']))")
+          gh issue create --label publish-failure \
+            --title "Social publishing is failing" \
+            --body "Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+          $errors
+
+          Close this issue after fixing; the next failure will open a new one."
