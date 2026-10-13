@@ -3,7 +3,7 @@
   "site": "armenia",
   "post_type": "tip-light",
   "publish_at": "2026-10-13T12:30:00+03:00",
-  "status": "pending",
+  "status": "published",
   "attempts": 0,
   "facebook": {
     "page_id": "943092128888857",
@@ -19,5 +19,14 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/armenia/2026-10-13-tip-flights/slide1.jpg"
     ],
     "caption": "טיפ לשבוע ✈️\n\nנתב\"ג לירוואן: שעתיים ו-20 דקות.\n\nישיר: FlyOne Armenia, 2 עד 5 טיסות בשבוע, בעיקר סביב סופי שבוע.\nעם עצירה: דרך לרנקה, רומא, וינה או סופיה. 7 עד 12 שעות, לפעמים זול בהרבה. חשבו גם את המזוודה.\nאל על: אין קו ישיר קבוע.\n\nחודשים טובים: מרץ, יוני, אוקטובר. יקרים: אוגוסט ודצמבר.\n\nמהשדה: Yandex Go או קו 201.\n\nשמרו למי שמתכנן 🇦🇲\n\nלינק בביו.\n\n#ארמניה #טיולבארמניה #ירוואן"
+  },
+  "progress": {
+    "fb_post_id": "943092128888857_122144782791217501",
+    "fb_comment_done": true
+  },
+  "published_at_actual": "2026-10-13T15:11:20.896778+00:00",
+  "result": {
+    "fb_post_id": "943092128888857_122144782791217501",
+    "ig_media_id": "18168048589466000"
   }
 }
