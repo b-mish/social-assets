@@ -3,7 +3,7 @@
   "site": "japan",
   "post_type": "tip-light",
   "publish_at": "2026-10-14T12:30:00+03:00",
-  "status": "pending",
+  "status": "published",
   "attempts": 0,
   "facebook": {
     "page_id": "937994292731264",
@@ -19,5 +19,14 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/japan/2026-10-14-tip-tokyo-stay/slide1.jpg"
     ],
     "caption": "טיפ לשבוע 🏨\n\nאיפה לישון בטוקיו:\n\nשינג'וקו: הכי בטוח לביקור ראשון. צומת תחבורה.\nשיבויה: צעירה ותוססת.\nתחנת טוקיו: ישר לשינקנסן.\nאסאקוסה: זולה ומסורתית.\nאואנו: רכבת ישירה לנריטה.\n\nמלון עסקים: 10,000 עד 18,000 ין ללילה. קטן, נקי, יעיל.\n\nשמרו למי שטס לטוקיו 🇯🇵\n\nלינק בביו.\n\n#יפן #טיולביפן #טוקיו"
+  },
+  "progress": {
+    "fb_post_id": "937994292731264_122138776695206596",
+    "fb_comment_done": true
+  },
+  "published_at_actual": "2026-10-14T10:24:27.124840+00:00",
+  "result": {
+    "fb_post_id": "937994292731264_122138776695206596",
+    "ig_media_id": "18287830636292117"
   }
 }
