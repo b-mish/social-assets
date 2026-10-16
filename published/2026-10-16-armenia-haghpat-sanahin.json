@@ -3,7 +3,7 @@
   "site": "armenia",
   "post_type": "attraction-of-week",
   "publish_at": "2026-10-16T12:30:00+03:00",
-  "status": "pending",
+  "status": "published",
   "attempts": 0,
   "facebook": {
     "page_id": "943092128888857",
@@ -22,5 +22,14 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/armenia/2026-10-16-haghpat-sanahin/slide4.jpg"
     ],
     "caption": "שני מנזרי אונסק\"ו מעל קניון אחד ⛪\n\nהגפת וסאנהין, בקניון נהר הדבד בצפון ארמניה. נבנו בין המאה ה-10 ל-13.\n\nסאנהין היה מרכז לימוד עם אקדמיה וספרייה. כניסה חופשית.\nהגפת עומד על מדרון פתוח, עם כנסיות, חאצ'קרים ונוף להרים.\n\nעולים דרך ונדזור וכביש M6. שני המנזרים ביום אחד, כהמשך לדיליז'אן.\n\nשמרו לטיול בצפון 🇦🇲\n\nלינק בביו.\n\n#ארמניה #טיולבארמניה #חופשהבארמניה"
+  },
+  "progress": {
+    "fb_post_id": "943092128888857_122145073545217501",
+    "fb_comment_done": true
+  },
+  "published_at_actual": "2026-10-16T10:33:59.556091+00:00",
+  "result": {
+    "fb_post_id": "943092128888857_122145073545217501",
+    "ig_media_id": "17961448058996963"
   }
 }
