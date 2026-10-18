@@ -3,7 +3,7 @@
   "site": "georgia",
   "post_type": "attraction-of-week",
   "publish_at": "2026-10-18T12:30:00+03:00",
-  "status": "pending",
+  "status": "published",
   "attempts": 0,
   "facebook": {
     "page_id": "947115751809312",
@@ -22,5 +22,14 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/georgia/2026-10-18-uplistsikhe/slide4.jpg"
     ],
     "caption": "עיר שלמה בתוך הסלע 🪨\n\nאופליסציחה, ליד גורי, מעל נהר המטקוורי. כבר באלף הראשון לפני הספירה חצבו כאן בתים, אולמות ומקדשים.\n\nשעה-שעתיים בין החללים החצובים, עם תצפית על העמק.\n\nבאותו יום: גורי והמוזיאון של סטלין.\n\nכשעה וחצי מטביליסי, ועל הדרך לכותאיסי. בואו בבוקר, אין צל.\n\nשמרו לטיול 🇬🇪\n\nלינק בביו.\n\n#גאורגיה #טיולבגאורגיה #חופשהבגאורגיה"
+  },
+  "progress": {
+    "fb_post_id": "947115751809312_122152632279157519",
+    "fb_comment_done": true
+  },
+  "published_at_actual": "2026-10-18T11:31:22.807183+00:00",
+  "result": {
+    "fb_post_id": "947115751809312_122152632279157519",
+    "ig_media_id": "17940772098365522"
   }
 }
