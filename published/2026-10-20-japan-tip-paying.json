@@ -3,7 +3,7 @@
   "site": "japan",
   "post_type": "tip-light",
   "publish_at": "2026-10-20T12:30:00+03:00",
-  "status": "pending",
+  "status": "published",
   "attempts": 0,
   "facebook": {
     "page_id": "937994292731264",
@@ -19,5 +19,14 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/japan/2026-10-20-tip-paying/slide1.jpg"
     ],
     "caption": "טיפ לשבוע 💴\n\nשלושה דברים מכסים כמעט כל תשלום ביפן:\n\nSuica באייפון: מוסיפים ב-Wallet לפני הטיסה. ויזה ישראלית נדחית לא פעם בטעינה, מאסטרקארד ואמקס עוברים.\nבאנדרואיד: קנו Welcome Suica פיזי, תקף 28 יום.\nמזומן: לדוכנים, מקדשים ומסעדות קטנות. כספומט של 7-Eleven בנחיתה.\n\nPayPay דורש מספר יפני. דלגו.\n\nשמרו לפני הטיסה 🇯🇵\n\nלינק בביו.\n\n#יפן #טיולביפן #טוקיו"
+  },
+  "progress": {
+    "fb_post_id": "937994292731264_122139376707206596",
+    "fb_comment_done": true
+  },
+  "published_at_actual": "2026-10-20T11:58:48.255914+00:00",
+  "result": {
+    "fb_post_id": "937994292731264_122139376707206596",
+    "ig_media_id": "18116340656042880"
   }
 }
