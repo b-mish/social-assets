@@ -3,7 +3,7 @@
   "site": "georgia",
   "post_type": "tip-light",
   "publish_at": "2026-10-21T12:30:00+03:00",
-  "status": "pending",
+  "status": "published",
   "attempts": 0,
   "facebook": {
     "page_id": "947115751809312",
@@ -19,5 +19,14 @@
       "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/georgia/2026-10-21-tip-3days-kutaisi/slide1.jpg"
     ],
     "caption": "טיפ לשבוע 🚗\n\n3 ימים מטביליסי לכותאיסי:\n\nיום 1: גורי, אופליסציחה, נאזוקי בסוראמי, מעבר ריקותי, ערב בכותאיסי.\nיום 2: גלאטי, מוצאמטה, צקאלטובו ומערת פרומתאוס.\nיום 3: אוקאצה וקינצ'חא, או קניון מרטווילי. וחזרה.\n\nשני לילות בכותאיסי. בדקו שעות פתיחה לשיט ולמערה.\n\nשמרו למסלול 🇬🇪\n\nלינק בביו.\n\n#גאורגיה #טיולבגאורגיה #חופשהבגאורגיה"
+  },
+  "progress": {
+    "fb_post_id": "947115751809312_122152981701157519",
+    "fb_comment_done": true
+  },
+  "published_at_actual": "2026-10-21T12:45:47.041760+00:00",
+  "result": {
+    "fb_post_id": "947115751809312_122152981701157519",
+    "ig_media_id": "18070913006745998"
   }
 }
