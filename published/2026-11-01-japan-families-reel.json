@@ -1,0 +1,27 @@
+{
+  "id": "2026-11-01-japan-families-reel",
+  "site": "japan",
+  "post_type": "reel",
+  "publish_at": "2026-11-01T10:47:00+02:00",
+  "status": "published",
+  "attempts": 0,
+  "facebook": {
+    "page_id": "937994292731264",
+    "video_url": "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/japan/2026-11-01-families/reel.mp4",
+    "link_comment": "תכנון טיול משפחתי ליפן, מותאם אישית 👉 https://japan-travel.co.il"
+  },
+  "instagram": {
+    "ig_user_id": "37462936089964287",
+    "connected_account_id": "instagram_bur-sunt",
+    "format": "reel",
+    "video_url": "https://raw.githubusercontent.com/b-mish/social-assets/main/assets/japan/2026-11-01-families/reel.mp4"
+  },
+  "published_at_actual": "2026-11-01T08:47:16+00:00",
+  "note": "Published manually (video not supported by publisher.py)",
+  "result": {
+    "fb_post_id": "937994292731264_122140638639206596",
+    "fb_video_id": "1100374486243208",
+    "ig_media_id": "18120951610758707",
+    "ig_permalink": "https://www.instagram.com/reel/DfMVhgbiUG2/"
+  }
+}
